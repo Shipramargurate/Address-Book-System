@@ -5,8 +5,6 @@ import java.util.*;
 public class AddressBookMain {
 
 	public static void main(String[] args) {
-		System.out.println("Welcome to address book compulation program");
-
 		Scanner sc = new Scanner(System.in);
 
 		AddressBook addressBook = new AddressBook();
